@@ -17,8 +17,7 @@ Pod::Spec.new do |spec|
 
   spec.name         = "GMImagePickerWithCloudMediaDownloading"
   spec.version      = "1.0.0"
-  spec.summary      = "Its an image picker based on GMImagepicker with support of downloading media from cloud like whatsapp imagepicker. It downloads the device gallery's images and videos from cloud for further use. UI elements have been added like indicator for downloading. Media item gets selected automatically once downloading is done.
-Please check the https://github.com/guillermomuntaner/GMImagePicker for integration."
+  spec.summary      = "Its an image picker based on GMImagepicker with support of downloading media from cloud like whatsapp imagepicker."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -39,8 +38,8 @@ Please check the https://github.com/guillermomuntaner/GMImagePicker for integrat
   #  Popular ones are 'MIT', 'BSD' and 'Apache License, Version 2.0'.
   #
 
-  spec.license      = "MIT (example)"
-  # spec.license      = { :type => "MIT", :file => "FILE_LICENSE" }
+  # spec.license      = "MIT (example)"
+  spec.license      = { :type => "MIT", :file => "License" }
 
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
