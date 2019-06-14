@@ -5,3 +5,6 @@ downloading. Media item gets selected automatically once downloading is done.
 
 Please check the https://github.com/guillermomuntaner/GMImagePicker for integration.
 
+# Installation
+Using CocoaPods
+pod 'GMImagePickerWithCloudMediaDownloading'
