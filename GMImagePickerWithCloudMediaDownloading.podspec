@@ -90,8 +90,8 @@ Please check the https://github.com/guillermomuntaner/GMImagePicker for integrat
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "GMImagePicker", "GMImagePicker/**/*.{h,m}"
-  spec.exclude_files = "Classes/Exclude"
+  spec.source_files  = "GMImagePickerWithCloudMediaDownloading/GMImagePicker/**/*.{h,m}"
+  #spec.exclude_files = "Classes/Exclude"
 
   # spec.public_header_files = "Classes/**/*.h"
 
@@ -104,7 +104,7 @@ Please check the https://github.com/guillermomuntaner/GMImagePicker for integrat
   #  non-essential files like tests, examples and documentation.
   #
 
-  spec.resource  = "GMImagePicker/*.{png,lproj}"
+  # spec.resource  = "GMImagePicker/*.{png,lproj}"
   # spec.resources = "Resources/*.png"
 
   # spec.preserve_paths = "FilesToSave", "MoreFilesToSave"
